@@ -6,10 +6,15 @@
 * so idk, go shoo away
 * (* - *)/`|_
 \* ]]
+local b = "wrong"
+local a = "a"
+
 local y = b
 local z = a
-if y == "a"
- then print(y) -- for clarification
-else if z = "a"
-print(z)
+
+if y == "a" then 
+    print("y is true")
+elseif z == "a" then 
+    print("z is true")
+end
 ```
